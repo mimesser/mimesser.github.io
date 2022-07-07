@@ -411,7 +411,7 @@ fieldset[disabled] .btn-theme {
   margin-bottom: 30px;
 }
 
-.service:hover .service-element {
+/* .service:hover .service-element {
   opacity: 0;
   -webkit-transform: translate3d(0, -100%, 0);
   -moz-transform: translate3d(0, -100%, 0);
@@ -428,7 +428,7 @@ fieldset[disabled] .btn-theme {
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
-}
+} */
 
 /*------------------------------------------------------------------
   	[Footer]
